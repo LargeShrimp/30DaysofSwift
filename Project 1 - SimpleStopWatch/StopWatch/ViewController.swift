@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var Counter:Double  = 0
+    var Counter: Double  = 0
     var Timer: NSTimer  = NSTimer()
     var IsPlaying: Bool = false
     
